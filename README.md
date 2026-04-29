@@ -1,0 +1,2 @@
+# Top-100-Currently-Global-Selling-Steam-Games-Market-Analysis
+This is my first project after learning Advanced SQL. In this project, I look at the top 100 currently global selling Steam games and identify review score trends by publishers, categorize games by price tiers to observe which tier yields the highest review scores, analyze overall sales growth over time, and find hidden gems in the market.
