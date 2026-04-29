@@ -20,4 +20,4 @@ The main goal of this project was to explore the following questions:
 - RimWorld is a top tier performer in terms of high reviews but lacks in overall copies sold.
 
 🚀 Next Steps
-[] Develop a PowerBI dashboard to visualize these trends. 
+[]Develop a PowerBI dashboard to visualize these trends. 
